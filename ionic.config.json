@@ -1,5 +1,7 @@
 {
   "name": "RandomPasswordGenerator",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
